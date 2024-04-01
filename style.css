@@ -1,0 +1,13 @@
+h1{
+    /* background-color: red;
+    font-size: medium;
+    text-align: center;
+    color: whitesmoke; */
+    border: 10px solid red;
+}
+.hello{
+    border: 10px solid black;
+}
+#ultra{
+    border: 10px solid blue;
+}
