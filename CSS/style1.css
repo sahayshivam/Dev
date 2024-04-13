@@ -1,0 +1,18 @@
+h1{
+    color: orange;
+    border: 2px;
+}
+h2{
+    color: rgb(2,4,5);
+    border: 1px rgb(2,4,5);
+}
+h3{
+    color: yellow;
+}
+h4{
+    color: hsl(0, 50%, 40%);
+    background-color: hsla(0, 50%, 60%, 1);
+}
+h5{
+    columns: #000000;;
+}
